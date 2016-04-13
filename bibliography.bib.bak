@@ -55,6 +55,41 @@
   file =      {:files\\IoTSemanticLandscape_HW_v2.pdf:PDF}
 }
 
+@Standard{H810-2013,
+  title =        {ITU-T H.810 Interoperability design guidelines for personal health systems},
+  organization = {International Telecommunication Union},
+  institution =  {ITU-T},
+  revision =     {1.0},
+  month =        {12},
+  year =         {2013},
+  abstract =     {Recommendation ITU-T H.810 defines the Continua Design Guidelines (CDG) which contain
+specifications to ensure the interoperability of devices used for applications monitoring personal
+health. It also contains additional design guidelines for interoperability that further clarifies these
+specifications by reducing the options in the underlying standard or specification, or by adding a
+feature missing in the underlying standard or specification. These guidelines focus on the following
+interfaces:
+– TAN-IF – Interface between touch area network (TAN) health devices and application hosting
+devices (AHDs)
+– PAN-IF – Interface between personal area network (PAN) health devices and AHDs
+– LAN-IF – Interface between local area network (LAN) health devices and AHDs
+– WAN-IF – Interface between AHDs and wide area network (WAN) health devices
+– HRN-IF – Interface between WAN health devices and Health Record Network health devices.
+This Recommendation is a transposition of the CDG developed and maintained by Continua Health
+Alliance.},
+  file =         {:files\\T-REC-H.810-201312-S!!PDF-E.pdf:PDF}
+}
+
+@Standard{H860-2014,
+  title =        {ITU-T H.860 Multimedia e-health data exchange services: Data schema and supporting services},
+  organization = {International Telecommunication Union},
+  institution =  {ITU-T},
+  revision =     {1.0},
+  month =        {04},
+  year =         {2014},
+  abstract =     {Recommendation ITU-T H.860 specifies a common health schema applicable to a wide range of health systems – e.g., clinical and wellness – and describes the supporting services and systems architecture for a health data exchange that allows an exchange of multimedia health data between a health provider, a controlling function and a patient. The services this Recommendation describes include both point-of-care and personal healthcare services.},
+  file =         {:files\\T-REC-H.860-201404-I!!PDF-E.pdf:PDF}
+}
+
 @InProceedings{Han2014,
   Title                    = {Data driven quantitative trust model for the Internet of Agricultural Things},
   Author                   = {W. Han and Y. Gu and Y. Zhang and L. Zheng},
